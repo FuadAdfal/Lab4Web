@@ -104,7 +104,6 @@ Menambahkan dua `<article class="entry">` yang dipisahkan garis pembatas (`<hr c
 
 ### Menambahkan Layout Untuk Menu Contact
 
-<img src="screenshot/kode12.png">  
-<img src="screenshot/kode12lanjutan.png">  
-<img src="screenshot/kode12lanjutan1.png">  
-<img src="screenshot/hasil12.png">  
+<img src="screenshot/ss12.png">  
+<img src="screenshot/ss12 juga.png">  
+<img src="screenshot/ss12 juga lagi.png">  
